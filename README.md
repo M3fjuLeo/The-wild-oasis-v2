@@ -17,6 +17,8 @@ Next.js: A React framework for server-side rendering and static site generation.
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 Date Picker: A date picker component for selecting dates easily.
 
+# Homepage
+
 ![Screenshot of The Wild Oasis](public/the-wild-oasis-v2-mu.vercel.app_.png)
 
 # Acknowledgments
