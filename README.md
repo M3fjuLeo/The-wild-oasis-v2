@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# The Wild Oasis
 
-## Getting Started
+Welcome to The Wild Oasis, a website for booking accommodations. Guests can make reservations, as well as edit or cancel them easily through our user-friendly interface.
 
-First, run the development server:
+# Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Reservation System: Book your stay at The Wild Oasis quickly and easily.
+Manage Bookings: Edit your reservation details or cancel them if your plans change.
+User-Friendly Interface: Simple and intuitive design for a seamless user experience.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Technologies Used
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This project was built using the following technologies:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+React: A JavaScript library for building user interfaces.
+Next.js: A React framework for server-side rendering and static site generation.
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+Date Picker: A date picker component for selecting dates easily.
 
-## Learn More
+![Screenshot of The Wild Oasis](public/the-wild-oasis-v2-mu.vercel.app_.pngs)
 
-To learn more about Next.js, take a look at the following resources:
+# Acknowledgments
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is part of a programming course by Jonas Schmedtmann. Special thanks to Jonas for his guidance and excellent teaching materials.
