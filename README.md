@@ -12,10 +12,12 @@ User-Friendly Interface: Simple and intuitive design for a seamless user experie
 
 This project was built using the following technologies:
 
-React: A JavaScript library for building user interfaces.
-Next.js: A React framework for server-side rendering and static site generation.
-Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
-Date Picker: A date picker component for selecting dates easily.
+» React: A JavaScript library for building user interfaces.<br/>
+» Next.js: A React framework for server-side rendering and static site generation.<br/>
+» Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.<br/>
+» Date Picker: A date picker component for selecting dates easily.<br/>
+» Supabase: An open-source Firebase alternative for backend services.<br/>
+» Google Developer Console: A platform for managing Google services and APIs.<br/>
 
 # Homepage
 
